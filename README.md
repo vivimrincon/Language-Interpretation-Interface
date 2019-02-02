@@ -15,6 +15,6 @@ Speech Interpretation and Recognition Interface Project. It's a command line nod
 * [DotEnv](https://www.npmjs.com/package/dotenv) - Zero-dependency module
 
 ### Contribution
-This repository is maintained by [ttalgihon] (https://github.com/ttalgihon):sparkles::cat::strawberry:
+This repository is maintained by [ttalgihon](https://github.com/ttalgihon):sparkles::cat::strawberry:
 
-You can also reach me by [LinkedIn] (https://www.linkedin.com/in/viviana-rincon-b9b057172/)
+You can also reach me by [LinkedIn](https://www.linkedin.com/in/viviana-rincon-b9b057172/)
