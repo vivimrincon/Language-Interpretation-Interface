@@ -17,4 +17,4 @@ Speech Interpretation and Recognition Interface Project. It's a command line nod
 ### Contribution
 This repository is maintained by [ttalgihon](https://github.com/ttalgihon):sparkles::cat::strawberry:
 
-You can also reach me by [LinkedIn](https://www.linkedin.com/in/viviana-rincon-b9b057172/)
+You can also reach me by [LinkedIn](https://www.linkedin.com/in/viviana-rincon-b9b057172/) or [Twitter](https://twitter.com/ttalgi_tweet)
