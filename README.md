@@ -15,7 +15,12 @@ Speech Interpretation and Recognition Interface Project. It's a command line nod
 * [Moment](https://www.npmjs.com/package/moment) -Javascript library
 * [DotEnv](https://www.npmjs.com/package/dotenv) - Environment variables
 
-## GIF Examples
+## Working The CLI
+To use the app, open a command line and type...
+* [node liri.js concert-this [artist name] ]
+* [node liri.js spotify-this-song [song name] ]
+* [node liri.js movie-this [movie name] ]
+* [node liri.js do-what-it-says ]
 
 <img src="https://i.gyazo.com/f582999401e0c4117ea885eb99529ef1.gif" alt="Gif from Gyazo" width="500"/>
 
