@@ -1,19 +1,19 @@
 # Language-Interpretation-Interface
-Speech Interpretation and Recognition Interface Project. It's a command line node.js app that takes in parameters and gives you back data.
+Speech Interpretation and Recognition Interface Project. It's a command line node.js app that takes in parameters and gives you back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 <img src="https://media.giphy.com/media/4ag7akAmeAfeKTwqxf/source.gif" width=250px height=250px alt="A purple gif of an animated old macintosh computer.">
 
 
 ## Built With
-* [HTML5](https://www.w3schools.com/html/default.asp) -Web page content markup
-* [CSS](https://www.w3schools.com/css/default.asp) -Markup layout design
+* [Node.js](https://nodejs.org/en/) -V8 Javascript Runtime Engine
+* [npm](https://www.npmjs.com/) -Node Package Manager
 * [Javascript](https://www.w3schools.com/js/default.asp) -Dynamic behavior
-* [Bootstrap](https://getbootstrap.com/) -Responsive Design
-* [jQuery](https://jquery.com/) -Javacript library
+* [OMDB API](http://www.omdbapi.com/) -Movie API Provider
+* [Bands In Town](http://www.artists.bandsintown.com/bandsintown-api) - Concert API Provider
 * [Spotify API](https://www.npmjs.com/package/node-spotify-api) -Spotify API Documentation
-* [Axios](https://www.npmjs.com/package/axios) -OMBD API and Band in Town API
+* [Axios](https://www.npmjs.com/package/axios) -HTTP client for Node.js
 * [Moment](https://www.npmjs.com/package/moment) -Javascript library
-* [DotEnv](https://www.npmjs.com/package/dotenv) - Zero-dependency module
+* [DotEnv](https://www.npmjs.com/package/dotenv) - Environment variables
 
 ## GIF Examples
 
