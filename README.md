@@ -3,6 +3,7 @@ Speech Interpretation and Recognition Interface Project. It's a command line nod
 
 <img src="https://media.giphy.com/media/4ag7akAmeAfeKTwqxf/source.gif" width=250px height=250px alt="A purple gif of an animated old macintosh computer.">
 
+
 ## Built With
 * [HTML5](https://www.w3schools.com/html/default.asp) -Web page content markup
 * [CSS](https://www.w3schools.com/css/default.asp) -Markup layout design
@@ -13,6 +14,13 @@ Speech Interpretation and Recognition Interface Project. It's a command line nod
 * [Axios](https://www.npmjs.com/package/axios) -OMBD API and Band in Town API
 * [Moment](https://www.npmjs.com/package/moment) -Javascript library
 * [DotEnv](https://www.npmjs.com/package/dotenv) - Zero-dependency module
+
+## GIF Examples
+
+<img src="https://i.gyazo.com/f582999401e0c4117ea885eb99529ef1.gif" alt="Gif from Gyazo" width="500"/>
+
+<img src="https://i.gyazo.com/676dcfa320e392a6ff28586c8e847720.gif" alt="Gif from Gyazo" width="500"/>
+
 
 ### Contribution
 This repository is maintained by [ttalgihon](https://github.com/ttalgihon):sparkles::cat::strawberry:

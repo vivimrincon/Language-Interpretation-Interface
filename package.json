@@ -1,0 +1,26 @@
+{
+  "name": "LanguageInterpretationInterface",
+  "version": "1.0.0",
+  "description": "Speech Interpretation and Recognition Interface Project. It's a command line node.js app that takes in parameters and gives you back data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttalgihon/Language-Interpretation-Interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttalgihon/Language-Interpretation-Interface/issues"
+  },
+  "homepage": "https://github.com/ttalgihon/Language-Interpretation-Interface#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}

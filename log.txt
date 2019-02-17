@@ -1,0 +1,1 @@
+Make sure you append each command you run to the log.txt file.
