@@ -10,13 +10,11 @@ let log = console.log;
 
 const argument1 = process.argv[2]; //switch statement
 const argument2 = process.argv.slice(3).join(" ");
-
 log("arg-1 is...", argument1);
 log("arg-2 is...", argument2);
 
 // First Switch Statement
 function getMyConcert(artist) {
-
     const url = 'https://rest.bandsintown.com/artists/' + artist +'/events?';
     axios.get(url, {
         params: {
@@ -24,23 +22,27 @@ function getMyConcert(artist) {
         }
     })
     .then((response) => {
-        let x = response.data;
-        log(response.data);
+        let xBandx = response.data;
+        //log("xBandx2222:", xBandx);
+
+        log()
+        for (let i = 0; i < xBandx.length; i++) {
+            let show = xBandx[i];
+            //log("City:", show.venue.city);
+            //log("State:", show.venue.region);
+            //log("Country:", show.venue.country);
+            log( show.venue.city +
+                "," + 
+                (show.venue.region || show.venue.country) + 
+                " at " + 
+                show.venue.name + " " + 
+                moment(show.datetime).format("MM/DD/YYYY")
+            );
+        }
     })
     .catch((err) => {
         log(err);
-    })
-
-    for (let i = 0; i < x.length; i++) {
-        let show = __[i];
-        log( show.venue.city +
-            "," + 
-            (show.venue.region || show.venue.country) + 
-            "at" + 
-            show.venue.name + " " + 
-            moment(show.datetime).format("MM/DD/YYYY")
-        );
-    }
+    }) 
 };
 
 // Second Switch Statement
