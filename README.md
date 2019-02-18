@@ -14,6 +14,7 @@ Speech Interpretation and Recognition Interface Project. It's a command line nod
 * [Axios](https://www.npmjs.com/package/axios) -HTTP client for Node.js
 * [Moment](https://www.npmjs.com/package/moment) -Javascript library
 * [DotEnv](https://www.npmjs.com/package/dotenv) - Environment variables
+* [Inquirer](https://www.npmjs.com/package/inquirer) -CLI for Node.js
 
 ## Working The CLI
 To use the app, open a command line and type...
